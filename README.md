@@ -1,16 +1,13 @@
-## Hi there 👋
+Hey, dude. What's up?
 
-<!--
-**vertopolkaLF/vertopolkaLF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Stuff I made so far:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [silence!](https://silencemute.fun/) - Windows app to mute your mic with a hotkey. Started small on WinUI - now have a lot of features and in Rust :D
+- [Score Chest](https://www.scorechest.fun/) - Web app to count your points in board games. Count on your phone - everyone sees on the big TV or their phones.
+- [Tusic](https://www.tusic.fun/) - Listen music with your friends. Works with your files uploaded to cloud. Stupidly simple. Free for now, lol
+- [QRcoder](https://www.qrcoder.online/) - an actual side project. simple app to quickly generate qr codes. no ads, instant generation, copy straight to clipboard and **some** customization
+- [REDACTED] - I wish I could share this one, I love it so much, but copyright strikes will kill me, so it's just for me and my friends :P
+
+
+Donate: https://boosty.to/vertopolkalf
