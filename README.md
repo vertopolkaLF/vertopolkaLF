@@ -1,6 +1,3 @@
-Hey, dude. What's up?
-
-
 Stuff I made so far:
 
 - [silence!](https://silencemute.fun/) - Windows app to mute your mic with a hotkey. Started small on WinUI - now have a lot of features and in Rust :D
