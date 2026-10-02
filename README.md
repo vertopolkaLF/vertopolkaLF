@@ -10,5 +10,7 @@ Stuff I made so far:
 - [QRcoder](https://www.qrcoder.online/) - an actual side project. simple app to quickly generate qr codes. no ads, instant generation, copy straight to clipboard and **some** customization
 - [REDACTED] - I wish I could share this one, I love it so much, but copyright strikes will kill me, so it's just for me and my friends :P
 
+Other:
+- [ULTIMATE Custom Run](https://steamcommunity.com/sharedfiles/filedetails/?id=3811713944) - mod for Slay the Spire 2 that improves Custom run with QoL and new modifiers
 
 Donate: https://boosty.to/vertopolkalf
