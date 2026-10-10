@@ -12,5 +12,6 @@ Stuff I made so far:
 
 Other:
 - [ULTIMATE Custom Run](https://steamcommunity.com/sharedfiles/filedetails/?id=3811713944) - mod for Slay the Spire 2 that improves Custom run with QoL and new modifiers
+- [Wide Hand](https://github.com/vertopolkaLF/balatro-wide-hand-mod) - QoL Balatro mod to help you navigate big piles of cards
 
 Donate: https://boosty.to/vertopolkalf
